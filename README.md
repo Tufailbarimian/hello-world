@@ -6,4 +6,4 @@ I love travelling,tennis,coffee,music,sports,hiking etc..
 **hello becode**
 ## hello-world
 ##### hello-world
-link to hello world [link](www.google.be)
+link to hello world [link](http://www.google.be)
